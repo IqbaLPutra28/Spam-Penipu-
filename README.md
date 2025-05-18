@@ -30,10 +30,12 @@ Install dependensi yang diperlukan dengan npm (Node Package Manager.
   ```bash
    npm install
 
-3.**Penggunaan**
+
+3.**Cara jalankan**
 Setelah semuanya terinstal, kamu bisa menjalankan skrip dengan perintah berikut di terminal.
  ```bash
 node spam.js
+                  
 
 **Catatan**
 SSL Verification: Jika kamu mendapatkan error terkait SSL (unable to get local issuer certificate), kamu dapat menonaktifkan verifikasi SSL untuk tujuan pengujian menggunakan https.Agent dalam kode.
